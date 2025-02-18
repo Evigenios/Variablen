@@ -8,4 +8,11 @@ void main() {
   String morning = "Morgen";
   String s = "Heute";
   String spa = " ";
+
+  //int variabeln
+  int d = 20;
+  int seven = 7;
+  int twelve = 12;
+  int a = 24;
+  
 }
